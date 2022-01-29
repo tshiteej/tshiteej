@@ -3,6 +3,7 @@
 I am Tshiteej Bhardwaj, Backend Engineer at [ElevateHQ](https://elevate.so/). Really Great to see you here.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tshiteej-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tshiteej/)](https://www.linkedin.com/in/tshiteej/)
+[![Twitter Badge](https://img.shields.io/twitter/follow/tshiteej?style=social&link=https://twitter.com/tshiteej)](https://twitter.com/tshiteej)
 
 ## ⚡ Technologies
 
