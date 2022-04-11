@@ -10,6 +10,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=tshiteej&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tshiteej&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+[![wakatime](https://wakatime.com/badge/user/1038c9dc-ff81-483b-b7e1-b45a1b5def00.svg)](https://wakatime.com/@1038c9dc-ff81-483b-b7e1-b45a1b5def00)
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
